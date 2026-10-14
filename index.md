@@ -42,7 +42,7 @@ This project investigates the association between weekly working hours and life 
 
 ### Data Visualization
 
-![Adjusted associations with life satisfaction](regression.png)
+![Adjusted associations with life satisfaction](regression.png.png)
 
 *Figure: Adjusted regression coefficients and confidence intervals for factors associated with life satisfaction in ESS Round 10.*
 
